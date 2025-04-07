@@ -1,0 +1,18 @@
+body {
+    background-color: #f4f4f4;
+    font-family: 'Arial', sans-serif;
+}
+
+.gradio-container {
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.gradio-button {
+    background-color: #007bff;
+    color: white;
+}
+
+.gradio-input {
+    border-radius: 8px;
+}
